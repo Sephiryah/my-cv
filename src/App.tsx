@@ -1,9 +1,10 @@
-import { MainContent } from "./component";
+import { MainContent, AdditionalInfo } from "./component";
 
 const App = () => {
   return (
     <div>
       <MainContent />
+      <AdditionalInfo />
     </div>
   )
 }
