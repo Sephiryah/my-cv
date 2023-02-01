@@ -7,6 +7,7 @@ export { default as Informatique } from "./Informatique";
 export { default as Coordinate } from "./Coordinate";
 export { default as Language } from "./Language";
 export { default as Asset } from "./Asset";
+export { default as Interest } from "./Interest";
 
 export { default as MainContent } from "./MainContent";
 export { default as AdditionalInfo } from "./AdditionalInfo";

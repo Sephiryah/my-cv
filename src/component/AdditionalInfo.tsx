@@ -1,4 +1,4 @@
-import { Coordinate, Language, Asset } from "./"
+import { Coordinate, Language, Asset, Interest } from "./"
  
 const AdditionalInfo = () => {
     return (
@@ -6,6 +6,7 @@ const AdditionalInfo = () => {
             <Coordinate />
             <Language />
             <Asset />
+            <Interest />
         </div>
     )
 }
