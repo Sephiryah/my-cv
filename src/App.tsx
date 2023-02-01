@@ -1,6 +1,11 @@
+import { Header } from "./component";
+
 const App = () => {
   return (
-    <div>It Works!</div>
+    <div>
+      <Header />
+      <Formation />
+    </div>
   )
 }
 
