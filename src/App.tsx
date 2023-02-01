@@ -1,12 +1,9 @@
-import { Header, Formation, Experience, Skills } from "./component";
+import { MainContent } from "./component";
 
 const App = () => {
   return (
     <div>
-      <Header />
-      <Formation />
-      <Experience />
-      <Skills />
+      <MainContent />
     </div>
   )
 }
