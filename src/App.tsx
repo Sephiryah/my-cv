@@ -1,4 +1,4 @@
-import { Header } from "./component";
+import { Header, Formation } from "./component";
 
 const App = () => {
   return (
