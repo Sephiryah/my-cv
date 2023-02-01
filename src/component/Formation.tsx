@@ -1,6 +1,7 @@
 const Formation = () => {
     return (
         <div>
+            <h3>Diplômes et Formations</h3>
             <ul>
                 <li>
                     <p><strong>Formation Développeur Web Becode</strong></p>
