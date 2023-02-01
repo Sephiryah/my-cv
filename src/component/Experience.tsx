@@ -5,7 +5,7 @@ const Experience = () => {
             <ul>
                 <li>
                     <p><strong>Bénévole</strong></p>
-                    <p>De Mars 2021 à Avril 2021</p>
+                    <p>De Mars 2021 à Avril 2021, SRPA Liège ABSL, Liège</p>
                     <p>Je devais nettoyer les loges des animaux, et prendre soin de ces derniers.</p>
                 </li>
             </ul>

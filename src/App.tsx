@@ -2,9 +2,9 @@ import { MainContent, AdditionalInfo } from "./component";
 
 const App = () => {
   return (
-    <div>
-      <MainContent />
+    <div className="flex font-sans h-screen">
       <AdditionalInfo />
+      <MainContent />
     </div>
   )
 }
