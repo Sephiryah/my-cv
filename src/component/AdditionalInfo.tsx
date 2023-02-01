@@ -1,9 +1,10 @@
-import { Coordinate } from "./"
+import { Coordinate, Language } from "./"
  
 const AdditionalInfo = () => {
     return (
         <div>
             <Coordinate />
+            <Language />
         </div>
     )
 }
